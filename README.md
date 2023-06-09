@@ -1,4 +1,4 @@
-# Fie3wall
+# Fir3wall
 
 ### Problem Statement
 Nowadays, we are hearing a lot of cases about token transfers getting transferred to the wrong account. This may happen due to negligence or some kind of malware that changes the address while we are transferring tokens. This problem is increasing day by day and once the funds are transferred. The transaction cannot be reversed.
